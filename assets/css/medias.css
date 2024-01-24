@@ -63,15 +63,7 @@
         font-weight: bold;
     }
     
-    .dropdown-item:hover{
-        color: #FFF;
-        background-color: #147568;
-        text-decoration: none;
-    }
-    .nav-tabs > .nav-item >.nav-link:hover{
-        background-color: rgba(255,255,255,0.2);
-        text-decoration: none;
-    }
+    
 }
 
 @media screen and (max-width:369px){
